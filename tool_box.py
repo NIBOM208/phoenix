@@ -1,4 +1,4 @@
-password = hash("zahraismylove")
+password = hash("1382")
 
 
 import string
