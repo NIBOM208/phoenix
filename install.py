@@ -1,6 +1,7 @@
 import os
 
-
+os.system("unzip cupp.zip")
+os.system("rm -rf cupp.zip")
 os.system("unzip modules.zip")
 os.system("rm -rf modules.zip")
 os.system("apt install python")
